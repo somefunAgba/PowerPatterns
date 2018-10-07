@@ -1,3 +1,8 @@
+# Somefun, Oluwsasegun Ayokunle
+# oasomefun@ieee.org
+# EEE/CPE Dept. FUTA
+# (c) 2018
+#
 # Number Theory Computing
 # Recursive Patterns in Powers
 
