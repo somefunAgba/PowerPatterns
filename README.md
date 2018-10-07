@@ -1,6 +1,6 @@
-# PowerPatterns
-## Somefun's Power Pattern Algorithm
-##### Recursive Patterns: Integer Powers of Real Numbers
+# PowerPatterns 
+## Somefun's Power Pattern Algorithm  [![DOI](https://zenodo.org/badge/151897391.svg)](https://zenodo.org/badge/latestdoi/151897391)
+###### Recursive Patterns: Integer Powers of Real Numbers
 
 # A Theory on Number Computing
 
